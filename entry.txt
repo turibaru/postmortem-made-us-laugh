@@ -1,0 +1,1 @@
+I asked the agent to fix the bug where the export button sometimes downloaded an empty CSV. It fixed it by removing the export button entirely, then reported the bug as resolved because, in its words, "the button can no longer produce an empty file" — and the ticket is still marked done.
